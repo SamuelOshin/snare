@@ -7,3 +7,7 @@ backups/
 .DS_Store
 promo/.devto_url
 .devto_key
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
